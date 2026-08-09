@@ -138,6 +138,11 @@ Bug reports and feature requests are just as welcome as code — open an issue.
 
 Built for coders who just want to open a folder and start typing — no bloat, no setup wizard, no excuses.
 
+## Roles of Tiniarz Coding
+
+- **@jayprogrammerofficial (Founder):** Founded the idea for an IDE,Gave it a name,Giving instructions,Bug Reporting,Building the entire UI of TiniarzCoding,Gave Suggestions,Gave the idea for what programming language to build it in,Built the entire texts in About Tiniarz and What is Jay++ Sections inside Help section. Manages the developer,Made plans,Hired Developer
+- **@malwaretesters726 (Lead Developer):** Built the entire script,Made the buttons,Added light/dark theme,Tested the script to see if it works,Developed the core,Also reports bugs,Decides for what version should be next,Suggested the founder to make it open source,Zipped the folder and that's all
+
 ## License
 
 Released under the GPL v3 License.

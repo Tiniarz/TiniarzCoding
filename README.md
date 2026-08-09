@@ -6,7 +6,7 @@ A professional desktop code editor built entirely in Python with PyQt6 — file 
 ![PyQt6](https://img.shields.io/badge/UI-PyQt6-41CD52)
 ![Pygments](https://img.shields.io/badge/highlighting-Pygments-orange)
 ![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey)
-![License](https://img.shields.io/badge/license-MIT-green)
+![License](https://img.shields.io/badge/license-GPLv3-green)
 
 ## Table of Contents
 

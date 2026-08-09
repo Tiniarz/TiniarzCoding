@@ -140,7 +140,7 @@ Built for coders who just want to open a folder and start typing — no bloat, n
 
 ## License
 
-Released under the MIT License.
+Released under the GPL v3 License.
 
 ```
                     GNU GENERAL PUBLIC LICENSE

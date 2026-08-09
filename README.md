@@ -1,6 +1,6 @@
 # Tiniarz Coding Free Version
 
-A slim, professional desktop code editor built entirely in Python with PyQt6 — file explorer, tabbed editing, syntax highlighting for hundreds of languages, a built-in PowerShell terminal, and native support for the Jay++ programming language.
+A professional desktop code editor built entirely in Python with PyQt6 — file explorer, tabbed editing, syntax highlighting for hundreds of languages, a built-in PowerShell terminal, and native support for the Jay++ programming language.
 
 ![Python](https://img.shields.io/badge/python-3.10%2B-blue)
 ![PyQt6](https://img.shields.io/badge/UI-PyQt6-41CD52)

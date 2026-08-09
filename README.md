@@ -44,11 +44,11 @@ It's open source and free to modify — clone it, reskin it, extend it, or rip o
 
 ## Jay++ Support
 
-Tiniarz has native support for **Jay++**, a language created by [@jayprogrammerofficial](https://www.tiktok.com/@jayprogrammerofficial), released August 1st and built for coders under strict usage guidelines.
+TiniarzCoding has native support for **Jay++**, a language created by [@jayprogrammerofficial](https://www.tiktok.com/@jayprogrammerofficial), released August 1st and built for coders under strict usage guidelines.
 
 Jay++ was originally designed as a proprietary language for powering microcontrollers in custom phones. That plan changed: the language was made public and stripped of its microcontroller-powering layer. That capability is coming back in a separate language, **JayImpossible**, built to power both machines and microcontrollers, targeted for release around 2028–2030. For now, Jay++ is focused on powering terminals and apps.
 
-In Tiniarz, `.jpp` files get:
+In TiniarzCoding, `.jpp` files get:
 
 - A dedicated syntax highlighter (keywords, types, strings, numbers, comments)
 - Their own icon in the file tree and tabs, labeled **JAY**
@@ -73,7 +73,7 @@ Pygments>=2.18
 
 ## Usage
 
-1. Launch the app with `python tiniarz.py`.
+1. Launch the app with `python TiniarzCoding.py`.
 2. Use **File → Open Folder** (or `Ctrl+K`) to load a project.
 3. Double-click a file in the tree to open it in a new tab.
 4. Edit, then **Save** (`Ctrl+S`) or **Save As** (`Ctrl+Shift+S`).
